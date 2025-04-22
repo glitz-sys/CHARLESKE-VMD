@@ -1,5 +1,5 @@
 {
-  "name":"CHARLESKE-VMD",
+  "name":"slizy_glitz",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://ibb.co/q70RyBd",
@@ -87,8 +87,8 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUFUdWRjNGhtdW5JQldQd2lkL1UrVlFTMjVyR1gzUjZwT0hLWW80TG9IRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieDc0WCtoWUJUVzFETzU3bFlwaXpKa1E5dUNvcHNSZUd4RVpIOGJsdFlCND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXQ1JzdkJBSEJld1VpaGg2UE5CcmYzVU5QeWNFM3IxcnNobEs4bVIxRjJBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJNM3dzdy9sNytpZDM3VThYeEtKV1ZkYWxCWEFrVnFCWTUydmdvN3RiRlNNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdPNFRkVVZVcUZySlJXR0ZkYkowOWcySFZWdDdlWjVNUlVWais1MXZVWHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlY1SHMvTG5UcHZ4K0RFK1pSUU5ZUGU1eTR5TjNDZkxxZG9sRmdJYUNPU1U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV05LOEhpcCtmY3VrYlZTaEovcjJMOVd2WDhCN1V2d0Uxc0FGWGhEcDcyRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNVNpVW5TZXBCcDBBYStOWkh4L29lT0RtTEw3OFhPaC9QdkdQMzl6RlFSbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InA4elhoZTI0L3lkYnFVSVJudE9heXA0Rzl1WWxaWFhkckRxTkhPZFhwc2hiWXNlNFFmSS9KcDBBelRDSW0yTGpaWWxINURSRi9UY3VyUlRwRzBORWdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTc0LCJhZHZTZWNyZXRLZXkiOiJiZnRiZytYeU50YXR4eGNqd2t0dzZyM0t4UVRIL1VyblVKMlIyQXcwTU5NPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjI2MzcxOTE5MjIyNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJFQUIwQzk3RjAwNTYwNDZERTM3RUY3M0ExNUIzRUY2RCJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1MjcyMzYzfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNjM3MTkxOTIyMjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiRDBEODcwRkQ3Nzg4NTlCNERDOEM5RDQzOEIyN0ZFREIifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc0NTI3MjM2M30seyJrZXkiOnsicmVtb3RlSmlkIjoiMjYzNzE5MTkyMjI1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjgzMUMxOEQ0OTZFMDE2QUQxNkU0NERBM0IxM0Y5QTVGIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDUyNzIzOTJ9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI2MzcxOTE5MjIyNUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJENEQ4QjFFMDQ2OTkwNkY0NkU0MEJGOEI4QzBEOTk3QSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1MjcyNDA2fSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyNjM3MTkxOTIyMjVAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiOUJCQzU2RTFGRjQ4Q0EzNDIxNEE0QTNCQ0NFRDVGRDMifSwibWVzc2FnZVRpbWVzdGFtcCI6MTc0NTI3MjQwN31dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiRmhmblBHVnBTSVdEdzV0U093aTIzZyIsInBob25lSWQiOiJiNzU1ZGMxNC04OTNkLTRlM2MtOTg2Yy0wMWQzMGJhOTljODAiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMUdHbVBrRitNMlgvQjBlL2ZTMlpPZ0xZNTMwPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InAzODBOaVNzaG1EelFEdkZGNUFVZEQvc1dMMD0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiJSWEs0MkI3TSIsIm1lIjp7ImlkIjoiMjYzNzE5MTkyMjI1OjJAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoic2xpenlfZWF6eS5nbGl0eiJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTHpneFprR0VKbjhtc0FHR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiUFcxMXhnMEZYZjZHV0s4TjBLNGJpS3VEV0NJSnFGVzJIZkNoK3dJVXFUND0iLCJhY2NvdW50U2lnbmF0dXJlIjoiVDlsRzRQcFhKWUVmZUdRbjhxVVBxc0JkaTVBSTVpTHNiZ0FVbS9vNjlZdm9CY1ZCNzRjUm9LbG5aZ0o0SEVhWU5BSzdLblI2SGR4cDRIKzE0eFhzQXc9PSIsImRldmljZVNpZ25hdHVyZSI6InZvWllGeWdvWmY5TGQzeHdVY2RNMGh1Wk9BNURyK2JNd1RJY3R3SVJNZzh0SUZSNjhYMklBNG1rdDcrdVRVSEFoT0NNa04rVDRTbEgwdWgvYVl1OGdRPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjYzNzE5MTkyMjI1OjJAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVDF0ZGNZTkJWMytobGl2RGRDdUc0aXJnMWdpQ2FoVnRoM3dvZnNDRktrKyJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NTI3MjM1OCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFIWjYifQ==",   
+      "value":"true",
       "required":true
       
     },
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "slizy_glitz"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "254759626063"
+    "value": "263719192225"
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 for online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"3",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
